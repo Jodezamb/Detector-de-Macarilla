@@ -18,8 +18,8 @@ Ingresar a la consola del sistema, luego  proceder con la instalación de las li
 3. pip3 install mediapipe
 
 ## Funcionamiento 
-El funcionamiento de *CONMASK*
-** se explicara a través de dos ilustraciones
+El funcionamiento de **CONMASK**
+ se explicara a través de dos ilustraciones
 
  - El sistema reconoce que el usuario no tiene mascarilla y no lo deja ingresar, se puede ver en la ilustración como las **flechas** indica  la puertas se mantienen cerradas. 
 
