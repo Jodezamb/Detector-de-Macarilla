@@ -58,7 +58,7 @@ Los lideres del proyecto fueron los Estudiantes de Carrera Ingenieria Mecatronic
 
 
 ## Tutores encargados
-lEl proyecto se llevo a cargo de la 
+El proyecto se llevo a cargo de la 
 
  - Ing. Alisson Constantine. **(Parte Practica)**
  - Ing. Ronald Solis   **(Parte Teorica)**
