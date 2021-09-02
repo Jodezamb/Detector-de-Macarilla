@@ -18,5 +18,23 @@ Ingresar a la consola del sistema, luego  proceder con la instalación de las li
 3. pip3 install mediapipe
 
 ## Funcionamiento 
-![Prueba de Sin mascarilla](https://github.com/Jodezamb/Detector-de-Macarilla/blob/master/imagenesreadme/PruebaNomask1.png)
+El funcionamiento de conmask se explicara a través de dos ilustraciones
+
+ - El sistema reconoce que el usuario no tiene mascarilla y no lo deja ingresar, se puede ver en la ilustración como las flechas indica  la puertas se mantienen cerradas. 
+
+![ ](https://github.com/Jodezamb/Detector-de-Macarilla/blob/master/imagenesreadme/funcionamientosinmask.png)
+
+ - El sistema reconoce que el usuario tiene mascarilla y lo deja ingresar, se puede ver en la ilustración como las flechan indican que  el motor de las puertas recibe una señal y este permite que se abran las puertas del local. 
+
+![](https://github.com/Jodezamb/Detector-de-Macarilla/blob/master/imagenesreadme/funcionamientoconmask.png)
+
 ## Demostracion
+
+Luego de  ejecutar los archivos en la carpeta Python  se ejecuta un frame que activa la camara y detecta si tenemos mascarilla o no.
+
+ - Como se muestra en la siguiente imagen nos detecta que no tenemos mascarilla.
+
+![Prueba de Sin mascarilla](https://github.com/Jodezamb/Detector-de-Macarilla/blob/master/imagenesreadme/PruebaNomask1.png)
+
+ - como se muestra en la siguiente imagen nos detecta que si tenemos la mascarilla puesta.
+ - ![](https://github.com/Jodezamb/Detector-de-Macarilla/blob/master/imagenesreadme/Pruebasimask1.png)
